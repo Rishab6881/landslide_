@@ -78,3 +78,4 @@ Access the application UI at: `http://localhost:3000`
 ## ⚖️ Decision-Support Disclaimer
 
 This software system functions strictly as an **analytical decision-support system (DSS)**. It does **not** independently order, enforce, or issue mandatory evacuation orders. Final land-use and relocation directives must remain under the official authority of qualified disaster management agencies and on-site geological field validations.
+https://landslide-opal.vercel.app/
